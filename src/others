@@ -1,0 +1,7 @@
+9. Palindrome Number
+There are many solutions for this problem. 1,reverse the int to compare whether they are the same. Pay attention to the overflow problem.
+2, Only reverse half. Like this https://discuss.leetcode.com/topic/8090/9-line-accepted-java-code-without-the-need-of-handling-overflow
+
+13. Roman to Integer
+idea can be found at
+https://discuss.leetcode.com/topic/17287/my-java-solution
